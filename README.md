@@ -75,9 +75,9 @@ plt.title("Customer Segments")
 
 <img width="700" height="289" alt="image" src="https://github.com/user-attachments/assets/2910dfb1-7186-40e9-a515-e9d7b400a424" />
 <img width="505" height="268" alt="image" src="https://github.com/user-attachments/assets/f09302ed-7999-41c0-a664-aeef4d799ff5" />
+<img width="387" height="136" alt="image" src="https://github.com/user-attachments/assets/d9af9904-67b0-411a-b7ea-1afe8679cdf8" />
 <img width="801" height="604" alt="image" src="https://github.com/user-attachments/assets/7367124e-8d4c-47dc-ac37-310e0192ce06" />
 <img width="736" height="223" alt="image" src="https://github.com/user-attachments/assets/b64a1efc-74c8-49ef-8527-66fbdfa56c64" />
-<img width="792" height="228" alt="image" src="https://github.com/user-attachments/assets/a35ead62-c481-451b-84fb-842c1796e111" />
 <img width="835" height="573" alt="image" src="https://github.com/user-attachments/assets/a11a99e5-1b97-430b-87ae-850d81477657" />
 
 
